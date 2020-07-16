@@ -3,6 +3,6 @@ INTERFACE zif_foreign_key_checks
 
   METHODS execute
     IMPORTING
-      it_data_to_be_validated TYPE ANY TABLE.
+      is_data_to_be_validated TYPE any.
 
 ENDINTERFACE.

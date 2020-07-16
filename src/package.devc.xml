@@ -7,7 +7,6 @@
     <COMP_POSID>BC-CUS-TOL-API</COMP_POSID>
     <COMPONENT>BYI3000061</COMPONENT>
     <TPCLASS>X</TPCLASS>
-    <PACKKIND>5</PACKKIND>
    </DEVC>
   </asx:values>
  </asx:abap>
